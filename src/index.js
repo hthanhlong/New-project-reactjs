@@ -4,8 +4,8 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { browser as router } from 'react-dom'
-
+import { browser as router } from 'react-dom';
+import { link } from 'react-dom';
 
 
 ReactDOM.render(
